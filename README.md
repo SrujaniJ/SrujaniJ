@@ -2,7 +2,6 @@
 
 🎓 CS student at **Toronto Metropolitan University** · Toronto, ON  
 🔐 Focused on Cybersecurity, AI & Systems Programming  
-🤝 Open to co-op & internship opportunities  
 
 ---
 
